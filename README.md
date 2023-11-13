@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are Froend Development Batch 2309</h1>
+<h1 align="center">Hi 👋, We are Frontend Development Batch 2309</h1>
 <h3 align="center">From Creative IT Institute</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdr2309&label=Profile%20views&color=0e75b6&style=flat" alt="fdr2309" /> </p>
