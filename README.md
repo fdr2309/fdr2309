@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **HTML, CSS, Bootstrap, JavaScript, Git and Github, React JS**
+- 🔭 We are currently working on **HTML, CSS, Bootstrap, JavaScript, Git and Github, React JS**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 We are currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **E-commerce website**
+- 👯 We are looking to collaborate on **E-commerce website**
 
 - 🤝 We are maintained by **Wasim Mahamood Sir**
 
